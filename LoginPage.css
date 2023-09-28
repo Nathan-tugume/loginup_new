@@ -1,0 +1,35 @@
+/* src/LoginPage.css */
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgb(123, 188, 226); /* Set your desired background color here */
+  }
+  
+  .login-box {
+    width: 300px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-box h2 {
+    text-align: center;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .btn-primary {
+    margin-top: 10px;
+        border: none; /* Remove border */
+        margin-top: 10px;
+        width: 100%; /* Make the button take up the full width */
+      }
+      
+      
+      
